@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Erwan\Documents\git_repo\ToucherCouler\build\CMakeFiles\d7051cb25b64371b00e04dc9c2c553ce\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Erwan\Documents\git_repo\ToucherCouler\Librairies\glfw-3.3.7\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Erwan\Documents\git_repo\ToucherCouler\Librairies\glfw-3.3.7\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\Erwan\Documents\git_repo\ToucherCouler\Librairies\glfw-3.3.7\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\Erwan\Documents\git_repo\ToucherCouler\build\Librairies\glfw-3.3.7\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5C71E067-6F3D-3A17-8021-70B56046B726}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3FA286C4-75D3-3685-9F54-D6809C452E41}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

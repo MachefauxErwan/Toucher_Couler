@@ -1,0 +1,10 @@
+^C:\USERS\ERWAN\DOCUMENTS\GIT_REPO\TOUCHERCOULER\LIBRAIRIES\GLFW-3.3.7\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Erwan/Documents/git_repo/ToucherCouler -BC:/Users/Erwan/Documents/git_repo/ToucherCouler/build --check-stamp-file C:/Users/Erwan/Documents/git_repo/ToucherCouler/build/Librairies/glfw-3.3.7/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
